@@ -39,7 +39,8 @@ const projects = [
     description:
       "Classic game project with score tracking and game logic.",
     tech: ["HTML", "CSS", "JavaScript"],
-    github: "https://github.com/shalu-sihag/rock-paper-scissor-game"
+    github: "https://github.com/shalu-sihag/rock-paper-scissor-game",
+    live: "https://shalu-sihag.github.io/rock-paper-scissor-game/"
   }
 ];
 
