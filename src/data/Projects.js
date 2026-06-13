@@ -13,7 +13,8 @@ const projects = [
     description:
       "An AI-powered study planner that helps students organize tasks and improve productivity.",
     tech: ["React", "API", "JavaScript"],
-    github: "https://github.com/shalu-sihag/ai-study-planner"
+    github: "https://github.com/shalu-sihag/ai-study-planner",
+    live: "https://shalu-sihag.github.io/ai-study-planner/"
   },
 
   {

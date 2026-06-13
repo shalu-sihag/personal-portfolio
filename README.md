@@ -1,16 +1,77 @@
-# React + Vite
+# 🚀 Personal Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio built to showcase my projects, skills, and journey as an aspiring Full Stack Developer.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 👨‍💻 About Me
 
-## React Compiler
+I am Shalu Sihag, a B.Tech Computer Science student passionate about web development, problem-solving, and building real-world applications.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I focus on:
+- Frontend Development (React)
+- Backend Development (Python, Node.js - learning phase)
+- Database Management (MySQL)
+- Building full-stack projects
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- HTML, CSS, JavaScript  
+- React.js  
+- Python  
+- MySQL  
+- Git & GitHub  
+- Vite  
+
+---
+
+## 📂 Projects
+
+### 1. InternFlow
+- Internship tracking system
+- GitHub: https://github.com/shalu-sihag/internflow  
+- Live: https://shalu-sihag.github.io/internflow/
+
+---
+
+### 2. AI Study Planner
+- AI-powered study scheduling tool
+- GitHub: https://github.com/shalu-sihag/ai-study-planner  
+- Live: https://shalu-sihag.github.io/ai-study-planner/
+
+---
+
+### 3. Currency Converter
+- Real-time currency conversion using API
+- GitHub: https://github.com/shalu-sihag/currency-converter  
+- Live: https://shalu-sihag.github.io/currency-converter/
+
+---
+
+### 4. Solar System Animation
+- Interactive animation project
+- GitHub: https://github.com/shalu-sihag/solar-system-animation  
+- Live: https://shalu-sihag.github.io/solar-system-animation/
+
+---
+
+### 5. Rock Paper Scissors Game
+- Simple interactive game using JavaScript
+- GitHub: https://github.com/shalu-sihag/rock-paper-scissor-game  
+- Live: https://shalu-sihag.github.io/rock-paper-scissor-game/
+
+---
+
+## 📬 Contact
+
+- GitHub: https://github.com/shalu-sihag  
+- LinkedIn: https://www.linkedin.com/in/shalu-sihag-1b0bb0353/  
+- Email: shalusihag29@gmail.com  
+
+---
+
+## 🎯 Goal
+
+To become a skilled Full Stack Developer and build scalable SaaS products.
